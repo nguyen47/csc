@@ -1,0 +1,12 @@
+source/csc/model/Model.java
+source/csc/model/Receiver.java
+source/csc/model/ReceiverList.java
+source/csc/model/ReceiverListTest.java
+source/csc/test/TestRunner.java
+source/csc/controller/Controller.java
+source/csc/controller/ReceiverController.java
+source/csc/view/View.java
+source/csc/view/ReceiverView.java
+source/csc/view/ReceiverAddView.java
+source/csc/view/ReceiverDisplayView.java
+source/csc/CSCApp.java
